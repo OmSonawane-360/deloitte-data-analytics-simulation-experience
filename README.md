@@ -34,7 +34,6 @@ Through this project, I practiced:
 - Identified the factory and machine with the most downtime.  
 
 ### **Task 2: (Next Step) Data Analysis & Reporting**
-*(You can update this after completing Task 2 if you want to include screenshots or steps.)*
 
 ---
 
