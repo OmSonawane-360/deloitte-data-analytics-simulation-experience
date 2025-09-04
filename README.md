@@ -40,7 +40,7 @@ Through this project, I practiced:
 
 ## 📊 Dashboard Preview
 ### Downtime per Factory & Machine
-![Dashboard Screenshot](https://github.com/OmSonawane-360/-IMDb-Movie-Analytics-Tableau-Dashboard/blob/main/Worksheet%20Screenshot/IMDB_Dashboard.png)  
+![Dashboard Screenshot](https://github.com/OmSonawane-360/deloitte-data-analytics-simulation-experience/blob/main/Dashboard.png)  
 
 ---
 
@@ -52,7 +52,7 @@ Through this project, I practiced:
 ---
 
 ## 📜 Certificate
-The completion certificate from Forage is included in this repository.  
+![Certificatet](https://github.com/OmSonawane-360/deloitte-data-analytics-simulation-experience/blob/main/Dashboard.png)  
 
 ---
 
