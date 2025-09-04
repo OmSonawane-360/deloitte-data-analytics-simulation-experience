@@ -40,7 +40,7 @@ Through this project, I practiced:
 
 ## 📊 Dashboard Preview
 ### Downtime per Factory & Machine
-*(Add screenshots here – the ones you shared above)*  
+![Dashboard Screenshot](https://github.com/OmSonawane-360/-IMDb-Movie-Analytics-Tableau-Dashboard/blob/main/Worksheet%20Screenshot/IMDB_Dashboard.png)  
 
 ---
 
