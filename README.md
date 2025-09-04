@@ -59,4 +59,4 @@ The completion certificate from Forage is included in this repository.
 ## 📧 Contact
 - **GitHub:** [Your GitHub Profile Link]  
 - **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** [Your Email Address]  
+- **Email:** ompatil0357@gmail.com 
