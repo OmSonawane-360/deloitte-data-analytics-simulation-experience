@@ -52,11 +52,11 @@ Through this project, I practiced:
 ---
 
 ## 📜 Certificate
-![Certificatet](https://github.com/OmSonawane-360/deloitte-data-analytics-simulation-experience/blob/main/Dashboard.png)  
+![Certificatet](https://github.com/OmSonawane-360/deloitte-data-analytics-simulation-experience/blob/main/Certificate.png)  
 
 ---
 
 ## 📧 Contact
-- **GitHub:** (https://github.com/OmSonawane-360)
-- **LinkedIn:** (https://www.linkedin.com/in/om-sonawane360/)
-- **Email:** ompatil0357@gmail.com 
+- **GitHub:** [https://github.com/OmSonawane-360]
+- **LinkedIn:** [https://www.linkedin.com/in/om-sonawane360/]
+- **Email:** [ompatil0357@gmail.com] 
